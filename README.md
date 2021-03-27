@@ -3,7 +3,7 @@
 
 *Author: Veličković Đorđe*
 
-# Features:
+## Features:
 
   - Elements are styled and sitting nicely in the frame
   - The game is started by choosing to start with a new layout or to load layout
@@ -22,10 +22,9 @@
 - Playing field is responsive, and always aligned to the center no matter the size of the field
 - Smaller playing field size has fewer shaded cells, bigger has more
 
-# Missing / to be updated: 
+## Missing / to be updated: 
 
   - Load layout has some bugs and seems not to work
   - Endless layout
   - Across and down numbers in the game and the ability to insert them
   
-### Update coming soon!
